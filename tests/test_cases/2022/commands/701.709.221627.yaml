@@ -2,30 +2,15 @@ command_id: 701.709.221627
 can_id_format: ELEVEN_BIT
 extended_addressing_enabled: false
 test_cases:
-- response: '7090562162760E0'
+- response: '709056216274740'
   expected_values:
-    LEXUS_TF1_PAN: 134.375
-- response: '709056216276220'
+    LEXUS_TF1_PAN: 88.25
+- response: '709056216275000'
   expected_values:
-    LEXUS_TF1_PAN: 136.625
-- response: 7090562162764A0
+    LEXUS_TF1_PAN: 104
+- response: '7090562162751E0'
   expected_values:
-    LEXUS_TF1_PAN: 141.125
-- response: '709056216276720'
-  expected_values:
-    LEXUS_TF1_PAN: 145.625
-- response: '709056216278340'
-  expected_values:
-    LEXUS_TF1_PAN: 196.25
-- response: 709056216278FC0
-  expected_values:
-    LEXUS_TF1_PAN: 218.75
-- response: '709056216279060'
-  expected_values:
-    LEXUS_TF1_PAN: 219.875
+    LEXUS_TF1_PAN: 107.375
 - response: '709056216279100'
   expected_values:
     LEXUS_TF1_PAN: 221
-- response: 7090562162791A0
-  expected_values:
-    LEXUS_TF1_PAN: 222.125
