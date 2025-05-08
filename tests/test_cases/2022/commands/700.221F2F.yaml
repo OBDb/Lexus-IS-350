@@ -2,21 +2,9 @@ command_id: 700.221F2F
 can_id_format: ELEVEN_BIT
 extended_addressing_enabled: false
 test_cases:
-- response: 70804621F2F83
+- response: 70804621F2F52
   expected_values:
-    LEXUS_FLI: 51.37255
-- response: 70804621F2F8F
-  expected_values:
-    LEXUS_FLI: 56.07843
-- response: 70804621F2F95
-  expected_values:
-    LEXUS_FLI: 58.43137
-- response: 70804621F2F9C
-  expected_values:
-    LEXUS_FLI: 61.17647
-- response: 70804621F2FA0
-  expected_values:
-    LEXUS_FLI: 62.7451
+    LEXUS_FLI: 32.15686
 - response: 70804621F2FA9
   expected_values:
     LEXUS_FLI: 66.27451
