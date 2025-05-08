@@ -14,3 +14,12 @@ test_cases:
 - response: 7B8056210067600
   expected_values:
     LEXUS_MASTER_CYL_TEMP: 38
+- response: 7B8056210068900
+  expected_values:
+    LEXUS_MASTER_CYL_TEMP: 57
+- response: 7B8056210068A00
+  expected_values:
+    LEXUS_MASTER_CYL_TEMP: 58
+- response: 7B8056210068B00
+  expected_values:
+    LEXUS_MASTER_CYL_TEMP: 59
